@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Трекер дедлайнов</string>
+    <string name="add">Добавить</string>
+
+    <string name="task_title">Название задачи</string>
+    <string name="title">Название</string>
+    <string name="description">Описание</string>
+    <string name="status">Статус</string>
+    <string name="priority">Приоритет</string>
+    <string name="payment_status">Статус оплаты</string>
+
+    <string name="pick_deadline">Выбрать дедлайн</string>
+    <string name="deadline_not_set_full">Дедлайн: не задан</string>
+    <string name="deadline_prefix">Дедлайн: %1$s</string>
+
+    <string name="save">Сохранить</string>
+
+    <string name="pin_title">PIN</string>
+    <string name="pin_hint">Введите PIN (4 цифры)</string>
+    <string name="pin_confirm_hint">Повторите PIN</string>
+    <string name="continue_btn">Продолжить</string>
+
+    <string name="settings_title">Настройки</string>
+    <string name="dark_theme">Тёмная тема</string>
+    <string name="lang_ru">Язык: Русский</string>
+    <string name="lang_en">Language: English</string>
+
+    <string-array name="status_items">
+        <item>В работе</item>
+        <item>На проверке</item>
+        <item>Выполнено</item>
+        <item>Отменено</item>
+    </string-array>
+
+    <string-array name="priority_items">
+        <item>Высокий</item>
+        <item>Средний</item>
+        <item>Низкий</item>
+    </string-array>
+
+    <string-array name="payment_items">
+        <item>Не оплачено</item>
+        <item>Частично</item>
+        <item>Оплачено</item>
+    </string-array>
+
+    <string name="delete_confirm_title">Удалить запись?</string>
+    <string name="delete_confirm_message">Вы точно хотите удалить запись?</string>
+
+    <string name="discard_changes_title">Отменить изменения?</string>
+    <string name="discard_changes_message">Все несохранённые изменения будут потеряны.</string>
+
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+
+    <string name="add_attachment">Прикрепить файл</string>
+    <string name="error_title_required">Введите название</string>
+    <string name="open_with">Открыть с помощью</string>
+    <string name="require_pin_on_start">Запрашивать PIN при входе</string>
+    <string name="customer">Заказчик</string>
+
+
+</resources>

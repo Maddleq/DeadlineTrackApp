@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+
+    <color name="brand_primary">#FF320D</color>
+    <color name="brand_surface">#F3F3F3</color>
+
+    <color name="brand_on_surface">#222222</color>
+    <color name="brand_on_primary">#F3F3F3</color>
+
+    <color name="task_row_a">#1A1A1A</color>
+    <color name="task_row_b">#141414</color>
+
+</resources>

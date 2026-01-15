@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Deadline Tracker</string>
+    <string name="add">Add</string>
+
+    <string name="task_title">Task title</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="status">Status</string>
+    <string name="priority">Priority</string>
+    <string name="payment_status">Payment status</string>
+
+    <string name="pick_deadline">Pick deadline</string>
+    <string name="deadline_not_set_full">Deadline: not set</string>
+    <string name="deadline_prefix">Deadline: %1$s</string>
+
+    <string name="save">Save</string>
+
+    <string name="pin_title">PIN</string>
+    <string name="pin_hint">Enter PIN (4 digits)</string>
+    <string name="pin_confirm_hint">Confirm PIN</string>
+    <string name="continue_btn">Continue</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="dark_theme">Dark theme</string>
+    <string name="lang_ru">Language: Russian</string>
+    <string name="lang_en">Language: English</string>
+
+    <string-array name="status_items">
+        <item>In progress</item>
+        <item>In review</item>
+        <item>Done</item>
+        <item>Cancelled</item>
+    </string-array>
+
+    <string-array name="priority_items">
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </string-array>
+
+    <string-array name="payment_items">
+        <item>Unpaid</item>
+        <item>Partially paid</item>
+        <item>Paid</item>
+    </string-array>
+
+    <string name="delete_confirm_title">Delete an entry?</string>
+    <string name="delete_confirm_message">Are you sure you want to delete the record?</string>
+
+    <string name="discard_changes_title">Discard changes?</string>
+    <string name="discard_changes_message">All unsaved changes will be lost.</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="add_attachment">Attach a file</string>
+    <string name="error_title_required">Enter the name</string>
+    <string name="open_with">Open with</string>
+    <string name="require_pin_on_start">Require PIN on app start</string>
+    <string name="customer">Customer</string>
+</resources>
